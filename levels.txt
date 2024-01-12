@@ -1,0 +1,3 @@
+level 1: inspect element
+level 2: js code
+level 3: broken access control
